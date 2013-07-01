@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc
+END
+editor-level.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/editor-level.php
+END
+is-author.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/is-author.php
+END
+is-subscriber.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/is-subscriber.php
+END
+remove-menu-pages.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/remove-menu-pages.php
+END
+is-editor.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/is-editor.php
+END
+remove-meta-boxes.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/remove-meta-boxes.php
+END
+theme-custom-login.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/theme-custom-login.php
+END
+admin-footer-mod.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/admin-footer-mod.php
+END
+is-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/is-admin.php
+END
+is-contibutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/is-contibutor.php
+END
+login-logo.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/login-logo.php
+END
+remove-dashboard-widgets.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/remove-dashboard-widgets.php
+END
+remove-core-widgets.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/remove-core-widgets.php
+END
+submenu-callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/718317/awesome-admin-cleaner/tags/1.0.5/inc/submenu-callback.php
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc
+END
+editor-level.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/editor-level.php
+END
+is-author.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/is-author.php
+END
+is-subscriber.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/is-subscriber.php
+END
+remove-menu-pages.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/remove-menu-pages.php
+END
+is-editor.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/is-editor.php
+END
+remove-meta-boxes.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/remove-meta-boxes.php
+END
+theme-custom-login.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/714690/awesome-admin-cleaner/trunk/inc/theme-custom-login.php
+END
+admin-footer-mod.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/admin-footer-mod.php
+END
+is-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/is-admin.php
+END
+is-contibutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/is-contibutor.php
+END
+login-logo.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/login-logo.php
+END
+remove-dashboard-widgets.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/remove-dashboard-widgets.php
+END
+remove-core-widgets.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/712617/awesome-admin-cleaner/trunk/inc/remove-core-widgets.php
+END
+submenu-callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/718316/awesome-admin-cleaner/trunk/inc/submenu-callback.php
+END
